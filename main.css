@@ -1,0 +1,48 @@
+.wave{
+    transition: all;
+    transition-duration: 4s;
+    transition-property: ease;
+}
+
+.card:hover .wave{
+    
+    opacity: 1;
+
+}
+#effect:hover{
+   
+    -webkit-filter: drop-shadow(0px 2px 24px rgba(0, 0, 0, 0.4));
+    filter: drop-shadow(0px 2px 24px rgba(0, 0, 0, 0.4));
+    -webkit-transition: all .2s ease;
+    transition: all .2s ease;
+    stroke-opacity: 0 ;
+    stroke-width: 0;
+    
+}   
+#effect1:hover{
+   
+    -webkit-filter: drop-shadow(0px 2px 24px rgba(0, 0, 0, 0.4));
+    filter: drop-shadow(0px 2px 24px rgba(0, 0, 0, 0.4));
+    -webkit-transition: all .2s ease;
+    transition: all .2s ease;
+    stroke-opacity: 0 ;
+    stroke-width: 0;
+    
+}   
+#effect2:hover{
+   
+    -webkit-filter: drop-shadow(0px 2px 24px rgba(0, 0, 0, 0.4));
+    filter: drop-shadow(0px 2px 24px rgba(0, 0, 0, 0.4));
+    -webkit-transition: all .2s ease;
+    transition: all .2s ease;
+    stroke-opacity: 0 ;
+    stroke-width: 0;
+    
+}   
+#line{
+   
+    
+    background: radial-gradient(89.12% 50% at 0% 50%, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+
+
+}
